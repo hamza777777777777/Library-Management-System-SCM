@@ -46,3 +46,16 @@ reports.
 
 The system is expected to reduce manual work, improve record
 accuracy, save time, and make library operations more efficient.
+
+## 7. Variant B: Email Notification Feature
+
+The system will notify library members about important
+library activities through email.
+
+### Features
+
+- Notify members when an issued book is due for return.
+- Send reminders for overdue books.
+- Send confirmation after a book is issued or returned.
+- Notify members about changes to their reservations.
+- Maintain a record of notifications sent.
