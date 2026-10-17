@@ -46,3 +46,16 @@ reports.
 
 The system is expected to reduce manual work, improve record
 accuracy, save time, and make library operations more efficient.
+
+## 7. Variant A: Book Reservation Feature
+
+The system will allow library members to reserve books that
+are currently borrowed by other members.
+
+### Features
+
+- Members can request a reservation for a book.
+- The system records reservation details.
+- The librarian can view pending reservations.
+- Members can be informed when a reserved book becomes available.
+- Reservations can be cancelled when no longer required.
